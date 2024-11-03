@@ -6,8 +6,10 @@
 Basic ICMP Documentation
 ========================
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
-
+Barış Berk Kottaş - 2587814
+İbrahim Can Gökdemir - 2588192
+Group 68
+https://github.com/bariskottas/covertovert
 
 .. toctree::
    :maxdepth: 2
