@@ -6,4 +6,4 @@ def recv_packet(packet):
             packet.show()
             exit(0)
 
-#sniff(prn=recv_packet)
+sniff(prn=recv_packet)
