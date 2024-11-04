@@ -6,10 +6,9 @@
 Basic ICMP Documentation
 ========================
 
-Barış Berk Kottaş - 2587814
-İbrahim Can Gökdemir - 2588192
+Barış Berk Kottaş
+İbrahim Can Gökdemir
 Group 68
-https://github.com/bariskottas/covertovert
 
 .. toctree::
    :maxdepth: 2
